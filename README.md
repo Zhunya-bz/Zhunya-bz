@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Cub3D project
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C and C++
 - 📫 How to reach me: tg: @zhunya_bz
 - ⚡ Fun fact: I am cello player, swimming lover, skiing, ping-pong and extreme sports.
 
